@@ -1,0 +1,39 @@
+.primeiro{
+    background-color: aquamarine;
+
+}
+
+.segundo{
+    background-color: rgb(250, 188, 17);
+
+}
+
+.terceiro{
+    background-color: rgb(30, 177, 214);
+
+
+}
+
+.exemplo{
+    list-style-type: none;
+
+
+}
+
+.bloco{
+
+    width: 300px;
+    height: 120px;
+    /*
+    display: inline;
+    */
+
+    display: inline-block;
+}
+
+.bloco:hover{
+    background-color: rgb(218, 14, 14);
+    color: rgb(194, 27, 27);
+
+
+}
